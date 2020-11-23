@@ -1,0 +1,7 @@
+
+"29bd1fe9-ab10-4e6e-b468-7ed49a11f252" = {
+	win32 = {
+		file = "sfx_spawn_sound.win32.timpani_wav"
+		streaming = "memory"
+	}
+}

@@ -1,0 +1,19 @@
+
+"$revision" = 1
+actors = [
+	{
+		enabled = true
+		mass = 0
+		name = "Box001"
+		node = "Box001"
+		shapes = [
+			{
+				material = "default"
+				shape = "Box001"
+				template = "default"
+				type = "mesh"
+			}
+		]
+		template = "static"
+	}
+]
